@@ -1,0 +1,229 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#pageContent,
+.head-content .main-page {
+    width: 100%;
+    height: auto;
+}
+
+.slider-container {
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    border-radius: none;
+    border: none;
+}
+
+.footer-container,
+.r3-container,
+.r2-container,
+.r1-container {
+    width: 100%;
+    padding: 3% 1% 3% 1%;
+    background: #232323;
+}
+
+.r3-container {
+    padding-top: 2%;
+}
+
+.r2-container {
+    background: #ff5733;
+    background-image: url(../pics/Baffalo3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-container {
+    width: 100%;
+    background: rgba(76, 72, 32, 0.47);
+    border-radius: 4px;
+    box-shadow: 1px 1px 10px 5px rgba(206, 206, 206, 0.5);
+}
+
+.img-txt img {
+    max-width: 100%;
+    min-height: 250px;
+    border-radius: 4px;
+    border: 2px solid #fff;
+    box-shadow: 1px 1px 12px 1px rgba(226, 221, 206, 0.52);
+
+}
+
+/*.img-txt img:hover {
+    transform: scale(1.1);
+    overflow: hidden;
+}*/
+
+.img-txt {
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+}
+
+.img-txt h3 {
+    margin-bottom: 20px;
+    margin-top: 0px;
+
+}
+
+.inst-container {
+    width: 100%;
+    padding: 3% 2% 3% 2%;
+    background: #f4f4f4;
+}
+
+.num-circle {
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    background: rgba(170, 169, 131, 0.53);
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    border: 2px solid #fff;
+    box-shadow: 1px 1px 11px 2px rgb(214, 200, 158);
+}
+
+.num-circle h2 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    line-height: 150px;
+}
+
+.number-container {
+    width: 100%;
+    padding: 2% 0% 2% 0%;
+}
+
+.text-container {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+}
+
+.offer-info {
+    text-align: center;
+    width: 80%;
+    color: #fff;
+    margin: auto;
+}
+
+.offer-info-conrainer {
+    width: 80%;
+    margin: auto;
+    padding: 0px;
+}
+
+.offer-info img {
+    max-width: 100%;
+    min-height: 250px;
+    border-radius: 4px;
+    border: 2px solid #fff;
+    box-shadow: 1px 1px 12px 1px rgba(226, 221, 206, 0.52);
+}
+
+.footer-container {
+    background: #524d52;
+
+}
+
+.entry-feild {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.entry-feild button,
+.entry-feild textarea,
+.entry-feild input {
+    width: 80%;
+    padding: 5px 0px 5px 5px;
+    border-radius: 2px;
+    border: 1px solid #fff;
+    background: none;
+    outline: none;
+    transition: all .20s ease-in-out;
+    color: #fff;
+}
+
+input:focus {
+    border: 1px solid green;
+}
+
+.entry-feild textarea {
+    min-height: 130px;
+}
+
+.submit-btn:hover {
+    background: #fc34ed
+}
+
+.r2-container,
+.r4-container {
+    text-align: center;
+    color: #fff;
+}
+
+.offer-container {
+    text-align: center;
+    color: #fff;
+    font-style: italic;
+}
+
+.img-txt h3 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.offer-container h2 {
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+
+.offer-info h3 {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.box-container {
+    width: 100%;
+}
+
+.info-content {
+    width: 100%;
+    padding: 2% 0% 2% 0%;
+}
+
+.info-box {
+    border: 2px dashed #fff;
+    padding: 10% 3% 10% 3%;
+    margin-bottom: 10px;
+}
+
+.main-content {
+    width: 90%;
+    font-style: italic;
+    padding: 1% 0% 1% 0%;
+}
+
+.bn-btn {
+    position: absolute;
+    top: 40%;
+}
+.forward{
+    right: 0;
+}
+.backward{
+    left: 0;
+}
